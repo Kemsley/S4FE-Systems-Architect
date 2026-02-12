@@ -9,3 +9,5 @@ Recovery Logic When drift is detected, the system triggers a state change to an 
 Outcome: This maintains 95% of transaction flow while the main model is recalibrated.
 
 Evidence: The screenshots in this folder demonstrate the "Block vs. Allow" execution control logic used to enforce this recovery.
+![System Block Proof](financial-safety-block.png)
+![System Allow Proof](financial-safety-allow.png)
