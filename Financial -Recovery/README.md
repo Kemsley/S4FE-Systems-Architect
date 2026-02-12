@@ -14,5 +14,5 @@ Outcome: This maintains 95% of transaction flow while the main model is recalibr
 
 Evidence: The screenshots in this folder demonstrate the "Block vs. Allow" execution control logic used to enforce this recovery.
 
-![System Block Proof](image_Snippet1.png)
-![System Allow Proof](image_snippet2.png)
+![System Block Proof](financial-safety-block.png)
+![System Allow Proof](financial-safety-allow.png)
