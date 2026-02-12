@@ -13,3 +13,6 @@ When drift is detected, the system triggers a state change to an Immutable Rules
 Outcome: This maintains 95% of transaction flow while the main model is recalibrated.
 
 Evidence: The screenshots in this folder demonstrate the "Block vs. Allow" execution control logic used to enforce this recovery.
+
+![System Block Proof](image_Snippet 1.png)
+![System Allow Proof](image_snippet 2.png)
